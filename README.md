@@ -1,6 +1,6 @@
 ### Hello World.... 👋
 
-I'm **Hammad Khurshid** and I'm a **Software Engineer** by `profession` and `pasion`.
+I'm **Hammad Khurshid** and I'm a **Software Engineer** by `profession` and `passion`.
 - 👨🏻‍💻 I design amazing websites using **WordPress**.
 - 💻 I develop 6 figure business stores using **Shopify**.
 - 🔭 I’m currently working on **Flutter Mini Projects** and **LeetCode** problem solving.
